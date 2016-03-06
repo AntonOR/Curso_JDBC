@@ -1,1 +1,3 @@
 Aprendiendo a usar Git tratando de coprender lo mas rapido posible
+Aun no aprendemos nada referente a java.
+Bueno empezaremos algun dia
